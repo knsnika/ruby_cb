@@ -1,0 +1,13 @@
+---
+- !ruby/object:Codebreaker::User
+  name: nika
+  hints: -7
+  tries: 0
+- !ruby/object:Codebreaker::User
+  name: nika
+  hints: -6
+  tries: 1
+- !ruby/object:Codebreaker::User
+  name: masha
+  hints: -1
+  tries: 6
