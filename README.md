@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Codebreaker
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/codebreaker`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -42,7 +41,3 @@ The gem is available as open source under the terms of the [MIT License](http://
 ## Code of Conduct
 
 Everyone interacting in the Codebreaker project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/codebreaker/blob/master/CODE_OF_CONDUCT.md).
-=======
-# done_codebreaker
-Creating codebreaker gem
->>>>>>> d911dcb0e148e3f76ebc7433f031855b7b0e3451
